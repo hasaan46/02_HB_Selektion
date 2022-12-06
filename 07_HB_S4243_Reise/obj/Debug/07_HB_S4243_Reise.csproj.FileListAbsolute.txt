@@ -1,0 +1,10 @@
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\07_HB_S4243_Reise\bin\Debug\07_HB_S4243_Reise.exe.config
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\07_HB_S4243_Reise\bin\Debug\07_HB_S4243_Reise.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\07_HB_S4243_Reise\bin\Debug\07_HB_S4243_Reise.pdb
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\07_HB_S4243_Reise\obj\Debug\07_HB_S4243_Reise.csproj.AssemblyReference.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\07_HB_S4243_Reise\obj\Debug\_07_HB_S4243_Reise.Form1.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\07_HB_S4243_Reise\obj\Debug\_07_HB_S4243_Reise.Properties.Resources.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\07_HB_S4243_Reise\obj\Debug\07_HB_S4243_Reise.csproj.GenerateResource.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\07_HB_S4243_Reise\obj\Debug\07_HB_S4243_Reise.csproj.CoreCompileInputs.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\07_HB_S4243_Reise\obj\Debug\07_HB_S4243_Reise.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\07_HB_S4243_Reise\obj\Debug\07_HB_S4243_Reise.pdb

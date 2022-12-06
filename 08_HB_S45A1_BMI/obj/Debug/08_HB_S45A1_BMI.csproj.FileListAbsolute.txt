@@ -1,0 +1,10 @@
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\08_HB_S45A1_BMI\bin\Debug\08_HB_S45A1_BMI.exe.config
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\08_HB_S45A1_BMI\bin\Debug\08_HB_S45A1_BMI.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\08_HB_S45A1_BMI\bin\Debug\08_HB_S45A1_BMI.pdb
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\08_HB_S45A1_BMI\obj\Debug\08_HB_S45A1_BMI.csproj.AssemblyReference.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\08_HB_S45A1_BMI\obj\Debug\_08_HB_S45A1_BMI.Form1.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\08_HB_S45A1_BMI\obj\Debug\_08_HB_S45A1_BMI.Properties.Resources.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\08_HB_S45A1_BMI\obj\Debug\08_HB_S45A1_BMI.csproj.GenerateResource.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\08_HB_S45A1_BMI\obj\Debug\08_HB_S45A1_BMI.csproj.CoreCompileInputs.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\08_HB_S45A1_BMI\obj\Debug\08_HB_S45A1_BMI.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\08_HB_S45A1_BMI\obj\Debug\08_HB_S45A1_BMI.pdb

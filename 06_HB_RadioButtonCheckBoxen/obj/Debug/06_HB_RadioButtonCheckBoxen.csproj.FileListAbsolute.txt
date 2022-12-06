@@ -1,0 +1,10 @@
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\06_HB_RadioButtonCheckBoxen\bin\Debug\06_HB_RadioButtonCheckBoxen.exe.config
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\06_HB_RadioButtonCheckBoxen\bin\Debug\06_HB_RadioButtonCheckBoxen.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\06_HB_RadioButtonCheckBoxen\bin\Debug\06_HB_RadioButtonCheckBoxen.pdb
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\06_HB_RadioButtonCheckBoxen\obj\Debug\06_HB_RadioButtonCheckBoxen.csproj.AssemblyReference.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\06_HB_RadioButtonCheckBoxen\obj\Debug\_06_HB_RadioButtonCheckBoxen.Form1.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\06_HB_RadioButtonCheckBoxen\obj\Debug\_06_HB_RadioButtonCheckBoxen.Properties.Resources.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\06_HB_RadioButtonCheckBoxen\obj\Debug\06_HB_RadioButtonCheckBoxen.csproj.GenerateResource.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\06_HB_RadioButtonCheckBoxen\obj\Debug\06_HB_RadioButtonCheckBoxen.csproj.CoreCompileInputs.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\06_HB_RadioButtonCheckBoxen\obj\Debug\06_HB_RadioButtonCheckBoxen.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\06_HB_RadioButtonCheckBoxen\obj\Debug\06_HB_RadioButtonCheckBoxen.pdb

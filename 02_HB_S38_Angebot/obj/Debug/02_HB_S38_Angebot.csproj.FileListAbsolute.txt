@@ -1,0 +1,10 @@
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\02_HB_S38_Angebot\bin\Debug\02_HB_S38_Angebot.exe.config
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\02_HB_S38_Angebot\bin\Debug\02_HB_S38_Angebot.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\02_HB_S38_Angebot\bin\Debug\02_HB_S38_Angebot.pdb
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\02_HB_S38_Angebot\obj\Debug\02_HB_S38_Angebot.csproj.AssemblyReference.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\02_HB_S38_Angebot\obj\Debug\_02_HB_S38_Angebot.Form1.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\02_HB_S38_Angebot\obj\Debug\_02_HB_S38_Angebot.Properties.Resources.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\02_HB_S38_Angebot\obj\Debug\02_HB_S38_Angebot.csproj.GenerateResource.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\02_HB_S38_Angebot\obj\Debug\02_HB_S38_Angebot.csproj.CoreCompileInputs.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\02_HB_S38_Angebot\obj\Debug\02_HB_S38_Angebot.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\02_HB_S38_Angebot\obj\Debug\02_HB_S38_Angebot.pdb

@@ -1,0 +1,10 @@
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\05_HB_S42A2_Energie\bin\Debug\05_HB_S42A2_Energie.exe.config
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\05_HB_S42A2_Energie\bin\Debug\05_HB_S42A2_Energie.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\05_HB_S42A2_Energie\bin\Debug\05_HB_S42A2_Energie.pdb
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\05_HB_S42A2_Energie\obj\Debug\05_HB_S42A2_Energie.csproj.AssemblyReference.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\05_HB_S42A2_Energie\obj\Debug\_05_HB_S42A2_Energie.Form1.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\05_HB_S42A2_Energie\obj\Debug\_05_HB_S42A2_Energie.Properties.Resources.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\05_HB_S42A2_Energie\obj\Debug\05_HB_S42A2_Energie.csproj.GenerateResource.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\05_HB_S42A2_Energie\obj\Debug\05_HB_S42A2_Energie.csproj.CoreCompileInputs.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\05_HB_S42A2_Energie\obj\Debug\05_HB_S42A2_Energie.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\05_HB_S42A2_Energie\obj\Debug\05_HB_S42A2_Energie.pdb

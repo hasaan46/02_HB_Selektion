@@ -1,0 +1,11 @@
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\HB_02_Selektion\HB_09_S45A2_Prämie\bin\Debug\HB_09_S45A2_Prämie.exe.config
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\HB_02_Selektion\HB_09_S45A2_Prämie\bin\Debug\HB_09_S45A2_Prämie.exe
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\HB_02_Selektion\HB_09_S45A2_Prämie\bin\Debug\HB_09_S45A2_Prämie.pdb
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\HB_02_Selektion\HB_09_S45A2_Prämie\obj\Debug\HB_09_S45A2_Prämie.csproj.AssemblyReference.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\HB_02_Selektion\HB_09_S45A2_Prämie\obj\Debug\HB_09_S45A2_Prämie.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\HB_02_Selektion\HB_09_S45A2_Prämie\obj\Debug\HB_09_S45A2_Prämie.Properties.Resources.resources
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\HB_02_Selektion\HB_09_S45A2_Prämie\obj\Debug\HB_09_S45A2_Prämie.csproj.GenerateResource.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\HB_02_Selektion\HB_09_S45A2_Prämie\obj\Debug\HB_09_S45A2_Prämie.csproj.CoreCompileInputs.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\HB_02_Selektion\HB_09_S45A2_Prämie\obj\Debug\HB_09_S45A2_Prämie.exe
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\HB_02_Selektion\HB_09_S45A2_Prämie\obj\Debug\HB_09_S45A2_Prämie.pdb
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\HB_02_Selektion\HB_09_S45A2_Prämie\obj\Debug\HB_09_S45A2_Prämie.Form1.resources

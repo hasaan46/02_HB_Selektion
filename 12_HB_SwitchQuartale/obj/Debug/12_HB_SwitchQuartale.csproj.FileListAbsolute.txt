@@ -1,0 +1,10 @@
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\12_HB_SwitchQuartale\bin\Debug\12_HB_SwitchQuartale.exe.config
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\12_HB_SwitchQuartale\bin\Debug\12_HB_SwitchQuartale.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\12_HB_SwitchQuartale\bin\Debug\12_HB_SwitchQuartale.pdb
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\12_HB_SwitchQuartale\obj\Debug\12_HB_SwitchQuartale.csproj.AssemblyReference.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\12_HB_SwitchQuartale\obj\Debug\_12_HB_SwitchQuartale.Form1.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\12_HB_SwitchQuartale\obj\Debug\_12_HB_SwitchQuartale.Properties.Resources.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\12_HB_SwitchQuartale\obj\Debug\12_HB_SwitchQuartale.csproj.GenerateResource.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\12_HB_SwitchQuartale\obj\Debug\12_HB_SwitchQuartale.csproj.CoreCompileInputs.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\12_HB_SwitchQuartale\obj\Debug\12_HB_SwitchQuartale.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\02_HB_Selektion\12_HB_SwitchQuartale\obj\Debug\12_HB_SwitchQuartale.pdb

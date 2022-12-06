@@ -1,0 +1,10 @@
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\HB_02_Selektion\HB_10_ÜbungZinsen\bin\Debug\HB_10_ÜbungZinsen.exe.config
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\HB_02_Selektion\HB_10_ÜbungZinsen\bin\Debug\HB_10_ÜbungZinsen.exe
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\HB_02_Selektion\HB_10_ÜbungZinsen\bin\Debug\HB_10_ÜbungZinsen.pdb
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\HB_02_Selektion\HB_10_ÜbungZinsen\obj\Debug\HB_10_ÜbungZinsen.csproj.AssemblyReference.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\HB_02_Selektion\HB_10_ÜbungZinsen\obj\Debug\HB_10_ÜbungZinsen.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\HB_02_Selektion\HB_10_ÜbungZinsen\obj\Debug\HB_10_ÜbungZinsen.Properties.Resources.resources
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\HB_02_Selektion\HB_10_ÜbungZinsen\obj\Debug\HB_10_ÜbungZinsen.csproj.GenerateResource.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\HB_02_Selektion\HB_10_ÜbungZinsen\obj\Debug\HB_10_ÜbungZinsen.csproj.CoreCompileInputs.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\HB_02_Selektion\HB_10_ÜbungZinsen\obj\Debug\HB_10_ÜbungZinsen.exe
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\HB_02_Selektion\HB_10_ÜbungZinsen\obj\Debug\HB_10_ÜbungZinsen.pdb
